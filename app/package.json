@@ -1,0 +1,40 @@
+{
+  "name": "codegx",
+  "version": "0.0.1",
+  "description": "CodeGX API",
+  "main": "./src/starters/index.js",
+  "scripts": {
+    "start": "node ./src/starters/index.js"
+  },
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.2",
+    "util": "^0.12.4",
+    "moment": "^2.29.1",
+    "btoa": "^1.2.1",
+    "xhr2": "^0.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "cors": "^2.8.5",
+    "http": "^0.0.0",
+    "socket.io": "^4.4.1",
+    "axios": "^0.26.0",
+    "parse-ms": "^2.1.0",
+    "discord-modals": "^1.3.2",
+    "highlight.js": "^11.5.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "codegx"
+  ],
+  "author": "nyde",
+  "license": "ISC"
+}
